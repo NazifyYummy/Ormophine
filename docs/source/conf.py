@@ -50,4 +50,4 @@ napoleon_use_param = True
 napoleon_use_rtype = True
 
 # -- Options for HTML output -------------------------------------------------
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'sphinx_rtd_theme' 
