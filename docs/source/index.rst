@@ -335,14 +335,14 @@ For detailed visual charts and per-operation breakdowns, please refer to the `Be
 License
 -------
 
-Ormophine is released under the `MIT License <https://github.com/mjnazify/Ormophine/blob/main/LICENSE>`_,
+Ormophine is released under the `MIT License <https://github.com/NazifyYummy/Ormophine/blob/main/LICENSE>`_,
 a permissive open-source license commonly used by Python libraries. You may use,
 copy, modify, merge, publish, distribute, sublicense, and sell the software,
 subject to including the original copyright and license notices in copies or
 substantial portions of the software.
 
 The software is provided "as is", without warranty. See the full `LICENSE
-text <https://github.com/mjnazify/Ormophine/blob/main/LICENSE>`_ for the complete
+text <https://github.com/NazifyYummy/Ormophine/blob/main/LICENSE>`_ for the complete
 terms.
 
 Documentation Map

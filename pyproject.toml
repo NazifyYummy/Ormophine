@@ -19,9 +19,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/mjnazify/Ormophine"
+Homepage = "https://github.com/NazifyYummy/Ormophine"
 Documentation = "https://ormophine.readthedocs.io/en/latest/"
-Repository = "https://github.com/mjnazify/Ormophine"
+Repository = "https://github.com/NazifyYummy/Ormophine"
 
 [tool.setuptools.package-data]
 "*" = ["*.txt", "*.ipynb"]

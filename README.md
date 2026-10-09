@@ -11,7 +11,7 @@
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
   </a>
-  <a href="https://github.com/mjnazify/Ormophine">
+  <a href="https://github.com/NazifyYummy/Ormophine">
     <img src="https://img.shields.io/badge/Status-Active%20Development-orange" alt="Status">
   </a>
   <a href="https://pypi.org/project/Ormophine/">
